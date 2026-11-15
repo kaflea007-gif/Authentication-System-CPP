@@ -1,0 +1,9 @@
+# Compiled executable
+auth_system
+
+# User account data
+users.txt
+
+# macOS and editor files
+.DS_Store
+.vscode/
